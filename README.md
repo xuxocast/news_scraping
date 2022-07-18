@@ -1,5 +1,9 @@
 # news_scraping
-Script scraping new from "El Pais" website. Saves the data in a Postgres DataBase stored into a AWS T3.micro EC2 instance.
+Script to scrap news from "El Pais" website:
+
+https://english.elpais.com/international/
+
+Saves the data in a Postgres DataBase stored into a AWS T3.micro EC2 instance.
 
 ## Scripts
 
